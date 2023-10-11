@@ -1,0 +1,34 @@
+#title {
+    background-color: blue;
+    color: white;
+    font-size: 35px;
+}
+
+#recipe-image {
+    height: auto;
+    width: 300px;
+}
+
+.description {
+    font-size: 20px;
+    font-family: "Lucida Console", sans-serif;
+    font-weight: bold;
+}
+
+#ingredients {
+    color: red;
+    font-size: 25px;
+    font-family: "Times New Roman";
+}
+
+#instructions {
+    color: green;
+    font-size: 25px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.list-ingredients, .list-instructions{
+    font-size: 22px;
+    
+}
+
